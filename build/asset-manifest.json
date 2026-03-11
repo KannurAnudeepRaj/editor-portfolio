@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/editor-portfolio/static/css/main.039bf95e.css",
+    "main.js": "/editor-portfolio/static/js/main.f14b21f6.js",
+    "static/media/edit1.mp4": "/editor-portfolio/static/media/edit1.7ed4d3b570799df185a1.mp4",
+    "static/media/video5.mp4": "/editor-portfolio/static/media/video5.3e53dfac4debef8566e2.mp4",
+    "static/media/video3.MP4": "/editor-portfolio/static/media/video3.e807d2d42c0c155ae657.MP4",
+    "static/media/kannuranudeepraj-resume.pdf": "/editor-portfolio/static/media/kannuranudeepraj-resume.3f449d9368ee6c699102.pdf",
+    "static/media/video4.MP4": "/editor-portfolio/static/media/video4.cd5e8698f02378d73b84.MP4",
+    "static/media/video2.MP4": "/editor-portfolio/static/media/video2.4e11b627e998a8cfa4c8.MP4",
+    "static/media/Anudeep Raj.png": "/editor-portfolio/static/media/Anudeep Raj.35f6396d7ba19f2f7132.png",
+    "static/media/Hello.gif": "/editor-portfolio/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/final_cut_pro_macos_bigsur_icon_190177.png": "/editor-portfolio/static/media/final_cut_pro_macos_bigsur_icon_190177.432977b2d922e01146b0.png",
+    "static/media/illustration.svg": "/editor-portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/Davinci.svg": "/editor-portfolio/static/media/Davinci.a8c4dc4ab57660dd975659f900b28e4c.svg",
+    "static/media/blender-svgrepo-com.svg": "/editor-portfolio/static/media/blender-svgrepo-com.145b8bb4cfb315bd3616188c8e7978d7.svg",
+    "static/media/whatsapp.svg": "/editor-portfolio/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/adobe-illustrator-svgrepo-com.svg": "/editor-portfolio/static/media/adobe-illustrator-svgrepo-com.bc6bf2065f2fc8c98aec1f6286876525.svg",
+    "static/media/adobe-animate-svgrepo-com.svg": "/editor-portfolio/static/media/adobe-animate-svgrepo-com.358b8b3878f668182dd5a6160988d9a3.svg",
+    "static/media/adobe-photoshop-svgrepo-com.svg": "/editor-portfolio/static/media/adobe-photoshop-svgrepo-com.60a32a915e85df0e69d9050d3a147881.svg",
+    "static/media/adobe-dreamweaver-svgrepo-com.svg": "/editor-portfolio/static/media/adobe-dreamweaver-svgrepo-com.3dd221e755b4329a094c203ce5ad59ad.svg",
+    "static/media/adobe-after-effects-svgrepo-com.svg": "/editor-portfolio/static/media/adobe-after-effects-svgrepo-com.acd5af145e90a8b06f0327386ca0e2b3.svg",
+    "static/media/adobe-premiere-svgrepo-com.svg": "/editor-portfolio/static/media/adobe-premiere-svgrepo-com.d30ac96b0058a24b2ed8017a28e50e13.svg",
+    "static/media/telegram.svg": "/editor-portfolio/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
+    "static/media/adobe-lightroom-svgrepo-com.svg": "/editor-portfolio/static/media/adobe-lightroom-svgrepo-com.3947b22aa1cc3e096eb25c81c529f0a3.svg",
+    "static/media/instagram.svg": "/editor-portfolio/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
+    "static/media/adobe-character-animator-icon.svg": "/editor-portfolio/static/media/adobe-character-animator-icon.82fa6952bb4429dc5aaf7e95ef153345.svg",
+    "index.html": "/editor-portfolio/index.html",
+    "static/media/phone-icon.svg": "/editor-portfolio/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/email-icon.svg": "/editor-portfolio/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "main.039bf95e.css.map": "/editor-portfolio/static/css/main.039bf95e.css.map",
+    "main.f14b21f6.js.map": "/editor-portfolio/static/js/main.f14b21f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.f14b21f6.js"
+  ]
+}
